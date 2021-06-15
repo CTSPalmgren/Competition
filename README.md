@@ -1,3 +1,5 @@
 # Competition
 Competition Files Data Evaluation
-Hard Rock Encoders Egalebine and Duvernay separate models to predict True Temperature for blind validationn wells
+Hard Rock Encoders 
+Eaglebine and Duvernay 
+Separate models for each basin to predict True Temperature for blind validation wells
